@@ -10,10 +10,10 @@ export default function handler(req, res) {
       duration: 'April 2025 - May 2025',
     },
     'INT2025UFCT-c0882': {
-      name: 'Jane Doe',
-      organization: 'Tech Labs',
-      role: 'Frontend Developer',
-      duration: 'Feb 2024 - Apr 2024',
+      name: 'Heeral Sahu',
+      organization: 'Badoniya & Company',
+      role: 'Web Development Intern',
+      duration: 'Feb 2025 - May 2025',
     }
   };
 
