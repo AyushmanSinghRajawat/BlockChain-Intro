@@ -3,13 +3,13 @@ export default function handler(req, res) {
   const { code } = req.query;
 
   const certificates = {
-    'INT2024-001': {
+    'INT2025UFCT-a0987': {
       name: 'Ayushman Singh Rajawat',
       organization: 'OctaNet Services',
       role: 'Web Development Intern',
       duration: 'April 2025 - May 2025',
     },
-    'INT2024-002': {
+    'INT2025UFCT-c0882': {
       name: 'Jane Doe',
       organization: 'Tech Labs',
       role: 'Frontend Developer',
