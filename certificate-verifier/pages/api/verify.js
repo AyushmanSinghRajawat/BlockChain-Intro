@@ -4,10 +4,10 @@ export default function handler(req, res) {
 
   const certificates = {
     'INT2024-001': {
-      name: 'Ayushman',
-      organization: 'OpenAI Interns',
-      role: 'AI Research Intern',
-      duration: 'Jan 2024 - May 2024',
+      name: 'Ayushman Singh Rajawat',
+      organization: 'OctaNet Services',
+      role: 'Web Development Intern',
+      duration: 'April 2025 - May 2025',
     },
     'INT2024-002': {
       name: 'Jane Doe',
