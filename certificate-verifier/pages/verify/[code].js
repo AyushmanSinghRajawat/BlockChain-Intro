@@ -23,6 +23,7 @@ export default function VerifyPage() {
   return (
     <div className="container">
       <h1>✅ Certificate Verified</h1>
+    <p>The student's information has been successfully verified.</p>
       <table>
         <tbody>
           <tr><th>Name</th><td>{data.name}</td></tr>
